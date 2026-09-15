@@ -1,0 +1,231 @@
+{
+ "autor": "Thales Gomes",
+ "site": "https://thalesgomes.com",
+ "loja": "https://thalesgomes.com/skills/",
+ "conferido_em": "2026-09-15",
+ "gratuitas": [
+  {
+   "slug": "copy-thief",
+   "promessa": "Copy de página de vendas, advertorial e VSL para tráfego frio, com diagnóstico de consciência antes do texto",
+   "repositorio": "https://github.com/thalesholleben/copy-thief",
+   "licenca": "MIT"
+  },
+  {
+   "slug": "google-ads-manager",
+   "promessa": "Google Ads avançado: Smart Bidding, AI Max, palavra-chave, leilão, teste A/B e relatório",
+   "repositorio": "https://github.com/thalesholleben/skill-google-ads",
+   "licenca": "MIT"
+  },
+  {
+   "slug": "linkedin-publisher",
+   "promessa": "Publica e apaga post no LinkedIn pela API oficial, com texto, imagem ou vídeo",
+   "repositorio": "https://github.com/thalesholleben/linkedin-publisher",
+   "licenca": "MIT"
+  },
+  {
+   "slug": "threads-publisher",
+   "promessa": "Publica, lista e apaga post no Threads pela API da Meta",
+   "repositorio": "https://github.com/thalesholleben/threads-publisher",
+   "licenca": "MIT"
+  },
+  {
+   "slug": "x-publisher",
+   "promessa": "Publica, lê e apaga post no X pela API oficial",
+   "repositorio": "https://github.com/thalesholleben/x-publisher",
+   "licenca": "MIT"
+  }
+ ],
+ "pagas": [
+  {
+   "slug": "deep-search-expert",
+   "area": "Pesquisa e estratégia",
+   "promessa": "Pesquisa profunda com manifesto e evidência por afirmação, cruzando fonte oficial, fórum, GitHub e vídeo",
+   "preco_brl": 97,
+   "pagina": "https://thalesgomes.com/skills/deep-search-expert"
+  },
+  {
+   "slug": "seo-expert",
+   "area": "Pesquisa e estratégia",
+   "promessa": "Ranquear no Google e ser citado por ChatGPT, Perplexity e AI Overviews, com intenção, E-E-A-T e dado estruturado",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/seo-expert"
+  },
+  {
+   "slug": "transcrever",
+   "area": "Pesquisa e estratégia",
+   "promessa": "Cola a URL do vídeo ou do áudio e sai a transcrição com resumo, por Whisper local ou pela API do Groq",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/transcrever"
+  },
+  {
+   "slug": "frontend-expert",
+   "area": "Design e frontend",
+   "promessa": "Direção visual, tipografia, cor e composição com revisão anti-genérico, 300 arquivos de referência e fontes locais",
+   "preco_brl": 97,
+   "pagina": "https://thalesgomes.com/skills/frontend-expert"
+  },
+  {
+   "slug": "animation-expert",
+   "area": "Design e frontend",
+   "promessa": "Animação web com CSS, WAAPI, GSAP, ScrollTrigger e SVG, com galeria executável e receita por intenção",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/animation-expert"
+  },
+  {
+   "slug": "logo-expert",
+   "area": "Design e frontend",
+   "promessa": "Logo do briefing ao kit: rotas de conceito, vetor com correção óptica, teste de redução, manual e favicon",
+   "preco_brl": 97,
+   "pagina": "https://thalesgomes.com/skills/logo-expert"
+  },
+  {
+   "slug": "page-speed-expert",
+   "area": "Design e frontend",
+   "promessa": "Core Web Vitals de verdade: LCP, INP, CLS, caminho crítico, imagem, fonte, script de terceiro e cache",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/page-speed-expert"
+  },
+  {
+   "slug": "web-builder-best-practices",
+   "area": "Design e frontend",
+   "promessa": "Site em PHP, HTML, CSS e JS sem framework pesado, da estrutura de pasta à publicação, com Core Web Vitals e segurança",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/web-builder-best-practices"
+  },
+  {
+   "slug": "meta-ads-expert",
+   "area": "Marketing e tráfego",
+   "promessa": "Meta Ads em 2026: Advantage+, Andromeda, público, criativo, teste, escala, com o imposto brasileiro já na conta",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/meta-ads-expert"
+  },
+  {
+   "slug": "tracking-expert",
+   "area": "Marketing e tráfego",
+   "promessa": "Pixel, Tag Manager client e server-side, Conversions API, UTM e atribuição que batem com o que o cliente vê",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/tracking-expert"
+  },
+  {
+   "slug": "instagram-organic-expert",
+   "area": "Marketing e tráfego",
+   "promessa": "Instagram orgânico em 2026: formato, gancho, distribuição, busca, métrica e automação com IA sem tomar punição",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/instagram-organic-expert"
+  },
+  {
+   "slug": "social-design",
+   "area": "Marketing e tráfego",
+   "promessa": "Arte PNG de post na medida de cada rede, com a sua marca e estratégia de gancho, prova, CTA e retenção de carrossel",
+   "preco_brl": 97,
+   "pagina": "https://thalesgomes.com/skills/social-design"
+  },
+  {
+   "slug": "api-expert",
+   "area": "Software e infra",
+   "promessa": "API REST em Express 5, NestJS 11 ou FastAPI com OWASP API Top 10, cache, fila, rate limit e observabilidade",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/api-expert"
+  },
+  {
+   "slug": "security-checklist",
+   "area": "Software e infra",
+   "promessa": "O checklist de pré-produção de SaaS: auth, autorização, upload, pagamento, webhook, headers, SSRF, supply chain e log",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/security-checklist"
+  },
+  {
+   "slug": "lgpd-baseline",
+   "area": "Software e infra",
+   "promessa": "LGPD para produto: base legal, dado sensível, retenção, direito do titular, DPA e plano de incidente",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/lgpd-baseline"
+  },
+  {
+   "slug": "escala",
+   "area": "Software e infra",
+   "promessa": "Aguentar o pico: vertical contra horizontal, load balancer, Swarm ou k3s, stateless, fila, réplica de leitura e CDN",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/escala"
+  },
+  {
+   "slug": "teste-de-carga",
+   "area": "Software e infra",
+   "promessa": "k6 na prática: converter visita em RPS e VUs, escolher o teste certo, ler o joelho de capacidade e dimensionar a VPS",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/teste-de-carga"
+  },
+  {
+   "slug": "testes-automatizados-expert",
+   "area": "Software e infra",
+   "promessa": "Unitário, API, e2e, contrato, negativo, IDOR e BOLA, DAST e carga, rodando em infra efêmera",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/testes-automatizados-expert"
+  },
+  {
+   "slug": "evolution",
+   "area": "Software e infra",
+   "promessa": "WhatsApp pela Evolution API v2 e GO: instância, QR, webhook, mídia, grupo e as regras que evitam o ban",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/evolution"
+  },
+  {
+   "slug": "ci-cd-expert",
+   "area": "Software e infra",
+   "promessa": "Pipeline no GitHub Actions na medida do repo: CI, segurança, deploy com rollback e o que roda antes de cada merge",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/ci-cd-expert"
+  },
+  {
+   "slug": "monitoring-expert",
+   "area": "Software e infra",
+   "promessa": "Log, métrica, trace, uptime e alerta proporcionais ao risco do sistema, sem virar painel que ninguém olha",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/monitoring-expert"
+  },
+  {
+   "slug": "cross-review",
+   "area": "Método e negócio",
+   "promessa": "Claude Code e Codex revisando um ao outro, com veredito fechado, evidência e no máximo duas rodadas",
+   "preco_brl": 97,
+   "pagina": "https://thalesgomes.com/skills/cross-review"
+  },
+  {
+   "slug": "enterprise-agentic-workflow",
+   "area": "Método e negócio",
+   "promessa": "O projeto inteiro orquestrado: risco Q0, Q1 e Q2, executor Claude ou Codex por tarefa, gates, PR e checks",
+   "preco_brl": 97,
+   "pagina": "https://thalesgomes.com/skills/enterprise-agentic-workflow"
+  },
+  {
+   "slug": "contador-expert",
+   "area": "Método e negócio",
+   "promessa": "MEI, ME, Simples, fator R, CNAE, pró-labore, NFS-e e ISS para quem vende software e serviço no Brasil",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/contador-expert"
+  },
+  {
+   "slug": "technology-contract-expert",
+   "area": "Método e negócio",
+   "promessa": "Contrato de software, site, automação, agente e SaaS sob a lei brasileira, com as cláusulas que evitam a briga de escopo",
+   "preco_brl": 57,
+   "pagina": "https://thalesgomes.com/skills/technology-contract-expert"
+  }
+ ],
+ "pack": {
+  "nome": "Pack de Skills",
+  "preco_brl": 497,
+  "bonus": [
+   "cross-plan",
+   "agentic-workflow",
+   "css-naming-guard",
+   "github-best-practices",
+   "docs-pattern",
+   "cortar-silencio",
+   "etl-modeling-expert",
+   "skills-doctor",
+   "otimizar-imagens-web"
+  ],
+  "pagina": "https://thalesgomes.com/skills/"
+ }
+}
